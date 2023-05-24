@@ -1,8 +1,7 @@
 body {
 	background: black;
-	font-family: Comic Neue;
 }
-* {
+ * {
 	border: 1px dashed red;
 	min-height: 10px;
 }
@@ -46,4 +45,4 @@ button {
 	background-color: dimgray;
 	padding: 5px;
 	font-family: Comic Neue;
-}
+} 
